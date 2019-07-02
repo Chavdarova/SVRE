@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Supplementary code for a paper under review by the International Conference on Machine Learning (ICML).
+Supplementary code for a paper under review.
 Do not distribute.
 """
 from parameter import *

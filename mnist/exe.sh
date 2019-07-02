@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Supplementary code for paper under review by the International Conference on Machine Learning (ICML).
+# Supplementary code for paper under review.
 # Do not distribute.
 
 
