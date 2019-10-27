@@ -11,7 +11,7 @@ The subdirectories contain:
 
 ### Citation
 ```
-@inproceedings{plummerCITE2018,
+@inproceedings{chavdarova2019,
 Author = {Tatjana Chavdarova and Gauthier Gidel and François Fleuret and Simon Lacoste-Julien},
 Title = {Reducing Noise in GAN Training with Variance Reduced Extragradient},
 Booktitle  = {NeurIPS},
